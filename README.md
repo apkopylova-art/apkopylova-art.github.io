@@ -33,9 +33,9 @@
 
 ## Как запустить
 1. Установите зависимости: `pip install osmnx geopandas folium shapely`
-2. Откройте `green_barnaul.ipynb` в Jupyter Notebook
+2. Откройте `project3_green_zone.ipynb` в Jupyter Notebook
 3. Запустите все ячейки
-4. Карта сохранится как `index.html`
+4. Карта сохранится как `Green_zone_Barnaul.html`
 
 ## Автор
 Копылова Алина | Курс "Пространственный анализ на Python" | НИУ ВШЭ, 2026
